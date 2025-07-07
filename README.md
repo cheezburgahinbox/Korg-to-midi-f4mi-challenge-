@@ -27,3 +27,7 @@ This project lets you drag and drop `.sav` files from the DS-10 synthesizer (emu
 python RBR.py yourfile.sav
 Or right-click your .sav file → Open with → RBR.py
 It will generate a .mid file in the same folder.
+
+dependincies
+mido: install using pip
+bash pip install mido in cmd
