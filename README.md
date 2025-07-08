@@ -1,4 +1,4 @@
-# Korg-to-midi-f4mi-challenge-
+# rainbow road aka RBR
 First project
 # 🌈 Rainbow Road
 
